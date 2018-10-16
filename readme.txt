@@ -1,4 +1,4 @@
-firstly, navigate to the proj2 folder.
+This project runs only on Linux and equivalent.
 Run the command make to make the project
 Execute "./dbms" for console input.
 Execute "./dbms script='[filename].sql" for file input, where [filename] is the input sql filename.
